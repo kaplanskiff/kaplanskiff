@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaplanskiff&label=Profile%20views&color=0e75b6&style=flat" alt="kaplanskiff" /> </p> -->
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **Three.js**
 
 - 📫 How to reach me **kaplan@skiff.com**
 
